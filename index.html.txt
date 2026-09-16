@@ -1,0 +1,66 @@
+<!Doctype html>
+<html>
+<head>
+<title>student portfolio</title>
+<style>
+body{font-family:Times-new Roman;
+margin:0;
+background-color:#f4f4f4;
+}
+header{
+background-color:#oottcc;
+color:white;
+text-align:center;
+padding:20px;
+border-radius:10px;
+}
+h2{color:=0077cc;
+}
+footer{
+background-color:#0077cc;
+color:white;
+text-align:center;
+padding:10px;
+}
+</style>
+</head>
+<body>
+<header>
+<h1>sweety</h1>
+<p>student portfolio<p>
+</header>
+<section>
+<h2>about me</h2>
+<p>
+iam afiya student of computer applications in islamia womens arts and science college </p>
+</section>
+<section>
+<h2>education</h2>
+<p>m.sc computer science</p>
+<p>islamia womens arts and science college</p>
+</section>
+<h2>skills</h2>
+<ul>
+<li>HTML<li>
+<li>Css<li>
+<li>python<li>
+<li>cloud computing<li>
+</ul>
+</section>
+<section>
+<h2>project</h2>
+<ul>
+<li>student portfolio website</li>
+<li>static website hosting using GitHub page</li>
+</ul>
+</section>
+<section>
+<h2>contact</h2>
+<p>email:firza@gmail.com</p>
+<p>phone:+91xxxxxxxxxx</p>
+</section>
+<footer>
+<p>2025 student portfolio</p>
+</footer>
+</body>
+</html>
